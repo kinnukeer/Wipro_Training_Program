@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\wipro_Training\\Day 10\\Day10_demo_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08B9FC28-532E-4B86-BDCB-8F76F645CF18}|Day10_demo_3.csproj|c:\\users\\lenovo\\source\\repos\\wipro_training\\day 10\\day10_demo_3\\speechsynthesizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B9FC28-532E-4B86-BDCB-8F76F645CF18}|Day10_demo_3.csproj|solutionrelative:speechsynthesizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B9FC28-532E-4B86-BDCB-8F76F645CF18}|Day10_demo_3.csproj|c:\\users\\lenovo\\source\\repos\\wipro_training\\day 10\\day10_demo_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B9FC28-532E-4B86-BDCB-8F76F645CF18}|Day10_demo_3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpeechSynthesizer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\wipro_Training\\Day 10\\Day10_demo_3\\SpeechSynthesizer.cs",
+              "RelativeDocumentMoniker": "SpeechSynthesizer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\wipro_Training\\Day 10\\Day10_demo_3\\SpeechSynthesizer.cs",
+              "RelativeToolTip": "SpeechSynthesizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:34:16.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\wipro_Training\\Day 10\\Day10_demo_3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\wipro_Training\\Day 10\\Day10_demo_3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:25:09.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

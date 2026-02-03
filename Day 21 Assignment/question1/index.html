@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fetch Example</title>
+</head>
+<body>
+  <h1>Check Console for Employee Data</h1>
+  <script>
+    const apiUrl = "https://dummy.restapiexample.com/api/v1/employees";
+    
+    fetch(apiUrl)
+      .then(response => response.json())
+      .then(data => console.log(data))
+      .catch(error => console.error("Error fetching data:", error));
+  </script>
+</body>
+</html>

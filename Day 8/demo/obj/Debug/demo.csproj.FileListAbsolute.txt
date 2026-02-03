@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\wipro_Training\Day 8\demo\bin\Debug\demo.exe.config
+C:\Users\Lenovo\source\repos\wipro_Training\Day 8\demo\bin\Debug\demo.exe
+C:\Users\Lenovo\source\repos\wipro_Training\Day 8\demo\bin\Debug\demo.pdb
+C:\Users\Lenovo\source\repos\wipro_Training\Day 8\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\wipro_Training\Day 8\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\wipro_Training\Day 8\demo\obj\Debug\demo.exe
+C:\Users\Lenovo\source\repos\wipro_Training\Day 8\demo\obj\Debug\demo.pdb

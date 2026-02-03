@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\wipro_Training\Day 1 -c#\demoHelloWorld\bin\Debug\demoHelloWorld.exe.config
+C:\Users\Lenovo\source\repos\wipro_Training\Day 1 -c#\demoHelloWorld\bin\Debug\demoHelloWorld.exe
+C:\Users\Lenovo\source\repos\wipro_Training\Day 1 -c#\demoHelloWorld\bin\Debug\demoHelloWorld.pdb
+C:\Users\Lenovo\source\repos\wipro_Training\Day 1 -c#\demoHelloWorld\obj\Debug\demoHelloWorld.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\wipro_Training\Day 1 -c#\demoHelloWorld\obj\Debug\demoHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\wipro_Training\Day 1 -c#\demoHelloWorld\obj\Debug\demoHelloWorld.exe
+C:\Users\Lenovo\source\repos\wipro_Training\Day 1 -c#\demoHelloWorld\obj\Debug\demoHelloWorld.pdb
