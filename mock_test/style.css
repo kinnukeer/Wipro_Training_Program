@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    font-family:'Courier New', Courier, monospace;
+}
+.hero{
+    height:90hv;
+    background:red;
+    color:beige;
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+}
+.section{
+    padding: 3rem 1rem;
+}
+button{
+    border-radius:8px;
+}
+@media(max-width: 768px){
+    .hero{
+        font-size: 1.8rem;
+    }
+}

@@ -1,0 +1,67 @@
+<html>
+    <head>
+        <title>Service Request Portal</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootsrap@5.3.2/dist/css/bootstrap.min.css" ref="stylesheet"/>
+        <link ref="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <nav class = "navbar navbar-expand-lg-navbar-dark bg-dark px-3">
+                <a class = "navbar-brand" href="#" >ServicePortal</a>
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-items"><a class="nav-link" data-section="home">Home</a></li>
+                    <li class="nav-items"><a class="nav-link" data-section="serviecs">Services</a></li>
+                    <li class="nav-items"><a class="nav-link" data-section="request">Request</a></li>
+                    <li class="nav-items"><a class="nav-link" data-section="status">Status</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <section id="home" class="section hero">
+                <h1>Professional Servies Made Easy</h1>
+                <p>Submit,track and manage service requests</p>
+                <button class="btn btn-primary" id = "scrollToForm">Request a Service</button>
+            </section>
+            <section id="services" class="section a-none container mt-5">
+                <h2 class="text-center mb-4">Our Services</h2>
+                <div class="row" id="serviceCards"></div>
+            </section>
+            <section id="request" clas="section d-none container mt-5">
+                <h2>Service Request Form</h2>
+                <form id="requestForm" novalidate>
+                    <input class="form-control mb-2" type="text" id="name" placeholder="Name">
+                    <input class="form-control mb-2" type="email" id="email" placeholder="Email">
+                    <select class="form-control mb-2" id="serviceType">
+                        <option>Web Technologies</option>
+                        <option>App Development</option>
+                        <option>Consulting</option>
+                    </select>
+                    <textarea class="form-control mb-2" id="description" placeholder="Description"></textarea>
+                    <button class="btn-btn-succeess">Submit</button>
+                    <p id="formMessage"></p>
+                </form>
+            </section>
+            <section id="status" class="section d-none container mt-5">
+                <h2>Request Status</h2>
+                <table class="table table-bordered mt-5">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Email</th>
+                            <th>Services</th>
+                            <th>Description</th>
+                        </tr>
+                    </thead>
+                    <tbody id="requestTable"></tbody>
+                </table>
+                <div id="fetchData"></div>
+            </section>
+        </main>
+        <footer class="text-center p-3 bg-dark text-light">
+            @ 2026 serviceportal. All rights reserved.
+        </footer>
+
+    <script src="script.js"></script>
+    </body>
+
+</html>
